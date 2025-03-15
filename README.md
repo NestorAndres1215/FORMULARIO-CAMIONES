@@ -141,10 +141,3 @@ CREATE TABLE empresa (
 2. **MYSQL JDBC Driver:** Descarga el archivo `mysql-jdbc.jar` y agrégalo al classpath del proyecto.
 3. **IDE recomendado:** NetBeans, IntelliJ IDEA o Eclipse.
 
----
-
-## **Ejecución del proyecto**
-
-1. Configura la base de datos SQLite con las tablas mencionadas anteriormente.
-2. Agrega el archivo `sqlite-jdbc.jar` al classpath del proyecto.
-3. Compila y ejecuta la clase `GestionCamiones`.
